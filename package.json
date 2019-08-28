@@ -1,11 +1,13 @@
 {
   "name": "simple-shallow-diff-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library to return differences between maps",
   "main": "index.ts",
   "author": "carlosvin@gmail.com",
   "license": "MIT",
-  "repository": {"url": "https://github.com/carlosvin/simple-shallow-diff-ts"},
+  "repository": {
+    "url": "https://github.com/carlosvin/simple-shallow-diff-ts"
+  },
   "scripts": {
     "build": "tsc --project ./tsconfig.json",
     "test": "jest",
@@ -16,6 +18,11 @@
     "jest": "^24.9.0",
     "ts-jest": "^24.0.2",
     "typescript": "^3.5.3"
-  }, 
-  "keywords": ["diff", "shallow", "typescript", "typings"]
+  },
+  "keywords": [
+    "diff",
+    "shallow",
+    "typescript",
+    "typings"
+  ]
 }
