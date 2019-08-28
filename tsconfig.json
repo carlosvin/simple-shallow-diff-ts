@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "lib": ["es2015"]
+    },
+    "files": ["diff.ts"],
+    "exclude": [
+        "node_modules"
+    ]
+}
