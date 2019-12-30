@@ -1,6 +1,6 @@
 {
   "name": "simple-shallow-diff-ts",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simple library to return differences between maps",
   "main": "index.ts",
   "author": "carlosvin@gmail.com",
