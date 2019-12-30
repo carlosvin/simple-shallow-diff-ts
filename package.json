@@ -14,10 +14,10 @@
     "testWithCoverage": "jest --coverage"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.18",
-    "jest": "^24.9.0",
-    "ts-jest": "^24.0.2",
-    "typescript": "^3.5.3"
+    "@types/jest": "^24",
+    "jest": "^24",
+    "ts-jest": "^24",
+    "typescript": "^3"
   },
   "keywords": [
     "diff",
