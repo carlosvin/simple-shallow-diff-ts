@@ -1,10 +1,14 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
         "declaration": true,
-        "outDir": "dist",
         "sourceMap": true,
-        "lib": ["es2015"]
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "target": "es6", 
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "outDir": "dist",
     },
     "files": ["diff.ts"],
     "exclude": [
