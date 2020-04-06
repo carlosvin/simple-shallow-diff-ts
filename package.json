@@ -14,9 +14,9 @@
     "testWithCoverage": "jest --coverage"
   },
   "devDependencies": {
-    "@types/jest": "^24",
-    "jest": "^24",
-    "ts-jest": "^24",
+    "@types/jest": "^25",
+    "jest": "^25",
+    "ts-jest": "^25",
     "typescript": "^3"
   },
   "keywords": [
